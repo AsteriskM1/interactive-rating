@@ -26,7 +26,7 @@ const Thanks = ({ count }) => {
             </div>
         </div>
         <div className="flex pt-4">
-            <p className="text-base">Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"><span className="hover:text-[#FB7413]">Frontend Mentor</span></a>. Coded by <a href="#"><span className="hover:text-[#FB7413]">Arthur</span></a>.</p>
+            <p className="text-base">Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"><span className="hover:text-[#FB7413]">Frontend Mentor</span></a>. Coded by <a href="https://github.com/AsteriskM1" target="_blank"><span className="hover:text-[#FB7413]">Arthur</span></a>.</p>
         </div>
     </section>
   )

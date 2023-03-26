@@ -31,7 +31,7 @@ const Feedback = ({ onData }) => {
         </Link>
       </div>
       <div className="flex pt-4">
-        <p>Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"><span className="hover:text-[#FB7413]">Frontend Mentor</span></a>. Coded by <a href="#"><span className="hover:text-[#FB7413]">Arthur</span></a>.</p>
+        <p>Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"><span className="hover:text-[#FB7413]">Frontend Mentor</span></a>. Coded by <a href="https://github.com/AsteriskM1" target="_blank"><span className="hover:text-[#FB7413]">Arthur</span></a>.</p>
       </div>
     </section>
     )
